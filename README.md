@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Emanuel+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%E2%80%94+DUOC+UC;Cloud+%E2%98%81%EF%B8%8F+%C2%B7+Big+Data+%F0%9F%93%8A+%C2%B7+Apps+que+suenan+%F0%9F%8E%B9" alt="Saludo animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Emanuel+%F0%9F%91%8B;Ingenier%C3%ADa+Inform%C3%A1tica+en+DUOC+UC;Cloud+%E2%98%81%EF%B8%8F+%C2%B7+Big+Data+%F0%9F%93%8A+%C2%B7+Apps+que+suenan+%F0%9F%8E%B9" alt="Saludo animado" />
 
 </div>
 
