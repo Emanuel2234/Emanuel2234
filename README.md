@@ -41,6 +41,8 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Herramientas**
 
@@ -49,11 +51,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Web MIDI](https://img.shields.io/badge/Web_MIDI-8A2BE2?style=for-the-badge&logo=musescore&logoColor=white)
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
 
 | Proyecto | Qué hace | Hecho con |
 |---|---|---|
 | 🎹 [Teclamigo](https://github.com/Emanuel2234/teclamigo) | Aprende piano con tu teclado MIDI: notas que caen, lectura de videos tutoriales, partitura en PDF y video | JavaScript · Python · Web MIDI |
+| 📊 [Causas de muerte en Chile](https://github.com/Emanuel2234/Causas_muerte_chile_2023_2026) | Minería de datos sobre ~408 mil defunciones (DEIS, 2023 a 03/2026): causas principales, edad, regresión, árbol de decisión, K-Means y tasa por región con web scraping | Python · scikit-learn · Power BI |
+
+## 👾 Contribution Space Shooter
+
+<div align="center">
+<img src="./game.gif" alt="Juego de naves con mis contribuciones" />
+</div>
 
 ## 🌌 Mis contribuciones en 3D
 
@@ -66,18 +75,3 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase de programación" />
 </div>
-
-<!--
-**Emanuel2234/Emanuel2234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
